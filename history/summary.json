@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.samasaur.com.ico",
     "slug": "vaultwarden-instance",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 3296,
     "timeDay": 3296,
     "timeWeek": 3296,
     "timeMonth": 3296,
     "timeYear": 3296,
     "dailyMinutesDown": {
-      "2024-01-13": 79
+      "2024-01-13": 126
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.samasaur.com.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 3291,
     "timeDay": 3291,
     "timeWeek": 3291,
     "timeMonth": 3291,
     "timeYear": 3291,
     "dailyMinutesDown": {
-      "2024-01-13": 79
+      "2024-01-13": 126
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://status.samasaur.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.samasaur.com.ico",
     "slug": "status-page-this-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "36.72%",
+    "uptimeDay": "36.72%",
+    "uptimeWeek": "36.72%",
+    "uptimeMonth": "36.72%",
+    "uptimeYear": "36.72%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-01-13": 79
+      "2024-01-13": 80
     }
   }
 ]
