@@ -12,6 +12,8 @@ sites:
     url: https://samasaur1.github.io
   - name: Status page (this site)
     url: https://status.samasaur.com
+  - name: Factor puzzle of the day
+    url: https://factor.samasaur.com/puzzle.json
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
