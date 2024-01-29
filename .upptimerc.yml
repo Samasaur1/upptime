@@ -20,14 +20,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.samasaur.com
   # TODO: fill out the rest of these later
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://icons.duckduckgo.com/ip3/samasaur1.github.io.ico
   name: Samasaur1 | Status
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: light
 
 assignees:
   - Samasaur1
