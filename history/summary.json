@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 191,
-    "timeWeek": 228,
+    "timeDay": 222,
+    "timeWeek": 212,
     "timeMonth": 223,
     "timeYear": 210,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.samasaur.com.ico",
     "slug": "vaultwarden-instance",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 494,
-    "timeDay": 233,
-    "timeWeek": 357,
-    "timeMonth": 370,
-    "timeYear": 494,
+    "uptimeYear": "99.59%",
+    "time": 489,
+    "timeDay": 270,
+    "timeWeek": 351,
+    "timeMonth": 371,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2024-01-13": 247
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.samasaur.com.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
-    "time": 966,
-    "timeDay": 608,
-    "timeWeek": 635,
-    "timeMonth": 880,
-    "timeYear": 966,
+    "uptimeYear": "99.55%",
+    "time": 961,
+    "timeDay": 699,
+    "timeWeek": 634,
+    "timeMonth": 847,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2024-01-13": 273
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 49,
-    "timeWeek": 66,
+    "time": 75,
+    "timeDay": 45,
+    "timeWeek": 63,
     "timeMonth": 74,
-    "timeYear": 76,
+    "timeYear": 75,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 119,
-    "timeDay": 72,
-    "timeWeek": 136,
-    "timeMonth": 116,
+    "timeDay": 104,
+    "timeWeek": 128,
+    "timeMonth": 115,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-01-13": 80
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 169,
-    "timeWeek": 200,
+    "time": 198,
+    "timeDay": 167,
+    "timeWeek": 184,
     "timeMonth": 209,
-    "timeYear": 199,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   }
 ]
