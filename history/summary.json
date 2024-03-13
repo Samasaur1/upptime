@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.samasaur.com.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 999,
     "timeDay": 517,
     "timeWeek": 741,
@@ -103,17 +103,19 @@
     "url": "https://factor.samasaur.com/puzzle.json",
     "icon": "https://icons.duckduckgo.com/ip3/factor.samasaur.com.ico",
     "slug": "factor-puzzle-of-the-day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 74,
-    "timeWeek": 209,
-    "timeMonth": 194,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 160,
+    "timeWeek": 213,
+    "timeMonth": 196,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2024-03-13": 0
+    }
   }
 ]
