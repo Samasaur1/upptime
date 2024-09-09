@@ -1,7 +1,7 @@
 url: https://watch.samasaur.com
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2024-09-08T23:16:42.702Z
+status: down
+code: 502
+responseTime: 3252
+lastUpdated: 2024-09-09T03:43:22.023Z
 startTime: 2024-01-13T00:04:12.706Z
 generator: Upptime <https://github.com/upptime/upptime>
