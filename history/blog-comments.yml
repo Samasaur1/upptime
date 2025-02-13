@@ -1,7 +1,7 @@
 url: https://comments.blog.samasaur.com/status
-status: up
-code: 200
-responseTime: 271
-lastUpdated: 2025-02-12T23:14:07.221Z
+status: down
+code: 502
+responseTime: 3190
+lastUpdated: 2025-02-13T20:10:58.982Z
 startTime: 2024-11-07T19:20:47.857Z
 generator: Upptime <https://github.com/upptime/upptime>
