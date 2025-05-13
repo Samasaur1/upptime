@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 337,
-    "timeWeek": 258,
-    "timeMonth": 231,
-    "timeYear": 226,
+    "timeDay": 225,
+    "timeWeek": 256,
+    "timeMonth": 233,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2024-09-16": 27
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.samasaur.com.ico",
     "slug": "vaultwarden-instance",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.34%",
     "time": 510,
-    "timeDay": 453,
+    "timeDay": 257,
     "timeWeek": 319,
-    "timeMonth": 275,
+    "timeMonth": 276,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-04-03": 547,
@@ -64,8 +64,7 @@
       "2024-05-17": 755,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1231
+      "2024-05-14": 1440
     }
   },
   {
@@ -74,15 +73,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.samasaur.com.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "51.07%",
+    "uptime": "51.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.41%",
-    "uptimeMonth": "86.93%",
+    "uptimeMonth": "89.71%",
     "uptimeYear": "35.28%",
     "time": 2494,
-    "timeDay": 699,
-    "timeWeek": 1110,
-    "timeMonth": 1102,
+    "timeDay": 384,
+    "timeWeek": 1075,
+    "timeMonth": 1111,
     "timeYear": 2834,
     "dailyMinutesDown": {
       "2025-05-10": 362,
@@ -353,8 +352,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1231
+      "2024-05-14": 1440
     }
   },
   {
@@ -369,9 +367,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 129,
-    "timeWeek": 110,
-    "timeMonth": 170,
+    "timeDay": 74,
+    "timeWeek": 103,
+    "timeMonth": 168,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-05-21": 20
@@ -388,10 +386,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 167,
-    "timeWeek": 188,
-    "timeMonth": 181,
+    "time": 148,
+    "timeDay": 141,
+    "timeWeek": 168,
+    "timeMonth": 179,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2024-05-21": 20
@@ -408,10 +406,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 233,
-    "timeWeek": 222,
-    "timeMonth": 201,
+    "time": 206,
+    "timeDay": 220,
+    "timeWeek": 216,
+    "timeMonth": 203,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -421,16 +419,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/comments.blog.samasaur.com.ico",
     "slug": "blog-comments",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.56%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "98.50%",
-    "time": 694,
-    "timeDay": 381,
-    "timeWeek": 686,
-    "timeMonth": 733,
-    "timeYear": 694,
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "98.51%",
+    "time": 692,
+    "timeDay": 260,
+    "timeWeek": 672,
+    "timeMonth": 673,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2025-05-10": 145,
       "2025-05-02": 182,
