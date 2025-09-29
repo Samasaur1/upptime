@@ -1,7 +1,7 @@
 url: https://vault.samasaur.com
-status: up
-code: 200
-responseTime: 403
-lastUpdated: 2025-09-28T23:14:36.779Z
+status: down
+code: 502
+responseTime: 3153
+lastUpdated: 2025-09-29T21:52:48.711Z
 startTime: 2024-01-13T00:04:00.829Z
 generator: Upptime <https://github.com/upptime/upptime>
