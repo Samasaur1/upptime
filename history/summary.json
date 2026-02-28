@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 278,
-    "timeWeek": 208,
-    "timeMonth": 221,
+    "timeDay": 289,
+    "timeWeek": 235,
+    "timeMonth": 224,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-07-04": 31,
@@ -30,12 +30,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.92%",
     "time": 465,
-    "timeDay": 313,
-    "timeWeek": 313,
-    "timeMonth": 534,
-    "timeYear": 451,
+    "timeDay": 426,
+    "timeWeek": 328,
+    "timeMonth": 537,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2026-02-17": 347,
       "2026-02-01": 34,
@@ -52,8 +52,7 @@
       "2025-04-03": 547,
       "2025-03-28": 34,
       "2025-03-02": 279,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -62,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.samasaur.com.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "33.90%",
+    "uptime": "33.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.27%",
+    "uptimeYear": "18.17%",
     "time": 2985,
-    "timeDay": 3202,
-    "timeWeek": 3174,
-    "timeMonth": 3193,
+    "timeDay": 3225,
+    "timeWeek": 3192,
+    "timeMonth": 3194,
     "timeYear": 2941,
     "dailyMinutesDown": {
-      "2026-02-27": 160,
+      "2026-02-28": 149,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -380,8 +380,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 513,
-      "2025-02-28": 233
+      "2025-03-06": 513
     }
   },
   {
@@ -396,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 121,
-    "timeWeek": 129,
-    "timeMonth": 127,
+    "timeDay": 129,
+    "timeWeek": 126,
+    "timeMonth": 125,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -414,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 126,
-    "timeWeek": 156,
-    "timeMonth": 192,
+    "timeDay": 238,
+    "timeWeek": 166,
+    "timeMonth": 190,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -431,11 +430,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 264,
-    "timeWeek": 190,
-    "timeMonth": 185,
-    "timeYear": 204,
+    "time": 205,
+    "timeDay": 291,
+    "timeWeek": 218,
+    "timeMonth": 192,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2025-07-04": 31,
       "2025-05-26": 26
@@ -447,18 +446,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/comments.blog.samasaur.com.ico",
     "slug": "blog-comments",
     "status": "down",
-    "uptime": "40.56%",
+    "uptime": "40.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.79%",
-    "time": 2086,
-    "timeDay": 3282,
-    "timeWeek": 3208,
-    "timeMonth": 3184,
-    "timeYear": 2528,
+    "uptimeYear": "22.69%",
+    "time": 2092,
+    "timeDay": 3332,
+    "timeWeek": 3244,
+    "timeMonth": 3193,
+    "timeYear": 2527,
     "dailyMinutesDown": {
-      "2026-02-27": 160,
+      "2026-02-28": 149,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -745,8 +745,7 @@
       "2025-05-01": 448,
       "2025-04-23": 310,
       "2025-04-12": 25,
-      "2025-03-07": 45,
-      "2025-02-28": 220
+      "2025-03-07": 45
     }
   }
 ]
